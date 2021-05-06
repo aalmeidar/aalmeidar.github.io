@@ -18,7 +18,7 @@ Para ello, teniamos que tener en cuenta el nivel de los alumnos a los que nos di
 
 # Trabajo 
 
-Mi grupo, después de plantearn y probar varias alternativas, decidió optar por la plataforma web educativa [Classroom](https://classroom.google.com/). Para comunicarnos con los alumnos usamos la aplicación [Discord](https://discord.com/) que nos permite llamadas, mensajería, etc. Por último, para ofrecer alguna práctica a los alumnos recurrimos al recurso de [Kahoot] (https://kahoot.com/). En estos tres pilares se fundamentó nuestra metodología que usariamos con nuestros alumnos en situación de confinamiento. 
+Mi grupo, después de plantearn y probar varias alternativas, decidió optar por la plataforma web educativa [Classroom](https://classroom.google.com/). Para comunicarnos con los alumnos usamos la aplicación [Discord](https://discord.com/) que nos permite llamadas, mensajería, etc. Por último, para ofrecer alguna práctica a los alumnos recurrimos al recurso de [Kahoot](https://kahoot.com/). En estos tres pilares se fundamentó nuestra metodología que usariamos con nuestros alumnos en situación de confinamiento. 
 
 Añadimos algunos extras para facilitar el trabajo a los alumnos, por ejemplo, elaboramos un bot en el servidor de Discord programado en Python que comunicaba notas y realizaba algunas labores del profesorado. 
 
