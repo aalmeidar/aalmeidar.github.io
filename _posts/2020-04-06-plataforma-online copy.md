@@ -11,7 +11,6 @@ subclass: 'post'
 author: aalmeidar
 ---
 # Objetivo
-
 El objetivo de esta tarea era crear una presentación, a tráves de la cual, mostramos a nuestros alumnos como proceder en caso de situación de confinamiento.
 
 Para ello, teniamos que tener en cuenta el nivel de los alumnos a los que nos dirigiamos, además de revisar todas las hipotéticas situaciones que se presenten.
