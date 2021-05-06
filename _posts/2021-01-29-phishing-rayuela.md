@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/1.jpg
+cover: assets/images/2.jpg
 navigation: True
 title: Phishing Rayuela
 date: 2021-01-29 10:18:00
