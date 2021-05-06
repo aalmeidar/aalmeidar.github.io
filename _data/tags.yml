@@ -1,12 +1,12 @@
 1º-Evaluación:
   name: 1º-Evaluación
   description: 1º-Evaluación
-  cover: 
+  cover: False
 2º-Evaluación:
   name: 2º-Evaluación
   description: 2º-Evaluación
-  cover: 
+  cover: False
 3º-Evaluación:
   name: 3º-Evaluación
   description: 3º-Evaluación
-  cover: 
+  cover: False
