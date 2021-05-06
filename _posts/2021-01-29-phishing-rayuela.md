@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/2.jpg
+cover: assets/images/3.jpg
 navigation: True
 title: Phishing Rayuela
 date: 2021-01-29 10:18:00
@@ -12,6 +12,7 @@ author: aalmeidar
 ---
 
 # Phishing
+Este trabajo esta relacionado con el anterior, puesto que, tras exponer el video de la prueba de una página web de phishing, elabore una exposicion de como montar este tipo de servidores de forma totalmente gratuita.
 ## Introducción
 En esta entrada, elaboraremos paso a paso una aplicación web phishing. Primeramente, definamos lo que es el phishing:
 
