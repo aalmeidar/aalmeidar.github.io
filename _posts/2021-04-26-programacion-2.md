@@ -1,11 +1,11 @@
 ---
 layout: post
 current: post
-cover: assets/images/1.jpg
+cover: assets/images/8.jpg
 navigation: True
-title: Plataforma Online
-date: 2020-10-05 10:18:00
-tags: 1º evaluación
+title: Programación II
+date: 2021-01-29 10:18:00
+tags: 2º evaluación
 class: post-template
 subclass: 'post'
 author: aalmeidar

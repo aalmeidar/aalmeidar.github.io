@@ -1,10 +1,10 @@
 ---
 layout: post
 current: post
-cover: assets/images/1.jpg
+cover: assets/images/6.jpg
 navigation: True
-title: Plataforma Online
-date: 2020-10-05 10:18:00
+title: Configuración PC
+date: 2020-11-23 10:18:00
 tags: 1º evaluación
 class: post-template
 subclass: 'post'
