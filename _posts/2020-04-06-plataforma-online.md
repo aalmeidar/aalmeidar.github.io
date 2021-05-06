@@ -5,7 +5,7 @@ cover: assets/images/1.png
 navigation: True
 title: Plataforma Online
 date: 2020-10-05 10:18:00
-tags: 1º evaluación
+tags: 1º-Evaluación
 class: post-template
 subclass: 'post'
 author: aalmeidar

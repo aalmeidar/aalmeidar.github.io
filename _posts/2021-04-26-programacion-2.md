@@ -5,7 +5,7 @@ cover: assets/images/8.jpg
 navigation: True
 title: Programación II
 date: 2021-01-29 10:18:00
-tags: 3º evaluación
+tags: 3º-Evaluación
 class: post-template
 subclass: 'post'
 author: aalmeidar
