@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta name="description" content="">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Brain JS Parkinson</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/railscasts.min.css">
+      <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="style_ind.css">
+
+          <script src="https://unpkg.com/brain.js" defer></script>
+        <script src="script.js" defer></script>
+
+
+  </head>
+  <body>
+    <nav>
+      <div class="logo"></div>
+      <ul class="menu">
+        <div class="menu__item toggle"><span></span></div>
+        <li class="menu__item"><a href="doc.html" class="link link--dark"><i class="fa fa-book"></i> Documentación</a></li>
+        <li class="menu__item"><a href="https://github.com/aalmeidar" class="link link--dark"><i class="fa fa-github"></i> Github</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1 class="hero__title">Parkinson JS</h1>
+      <p class="hero__description">Inteligencia artificial para diagnosticar la enfermedad de Parkinson</p>
+    </div>
+    <div class="wrapper">
+      <div class="installation">
+        <h2 class="section__title">Información</h2>
+        <div class="tab__container">
+		<h3>Objetivo</h3>	
+		<p>La siguiente red neuronal consiste en la predicción de la enfermedad de Parkinson a través de datos característicos de la clínica. Se evaluará el diagnóstico con un periodo de un año de sospecha.</p> 
+
+	<h3> Detalles de la enfermedad </h3>
+	<p> La lesión aparece en la pars compacta de la sustancia nigra del mesencéfalo, con inclusiones neuronales llamadas "cuerpos de Lewy", produciéndose un déficit de células dopaminérgicas en el sistema nigro-estriado.<br> <br> Su etiología es desconocida, la prevalencia aumenta con la edad y es menos frecuente en fumadores (Para más información cosultar la <a href="doc.html"><u>documentación</u> </a>). </p>
+        </div>
+      </div>
+      <hr>
+      <h2 class="section__title">Criterios evaluados</h2>
+      <div class="feature">
+        <div class="feature__item"> 
+          <h3 class="section__title">1. Signos cardinales de la enfermedad.</h3>
+          <p>Presencia al menos 1 año de dos de los signos cardinales de la enfermedad. Síntomas cardinales: Temblor, Rigidez, Acinesia/Bradicinesia, Pérdida de reflejos posturales.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">2. Tratamiento con L-Dopa</h3>
+          <p>Respuesta al tratamiento con L-dopa al menos durante 1 año.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">3. Hiposímia</h3>
+          <p>Disminución o déficit del sentido del olfato.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">4. Depresión</h3>
+          <p>Síntomas depresevios, anhedonía y fatiga.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title"></h3>
+          <p></p>
+        </div>
+        <div class="feature__item">
+		<h3 class="section__title"</h3>
+          <p></p>
+        </div>
+      </div>
+    <div class="changelog">
+      <div class="wrapper">
+        <h3 class="section__title">Software</h3>
+                   
+        <div class="changelog__item">
+
+          <div class="changelog__meta">
+	<p>Seleccionar las opciones de las casillas. Cada casilla corresponde a los criterios anteriores.</p>
+          </div>
+          <div class="changelog__detail">
+           <select id="opcion1" class="browser-default" required>
+                <option value="">1</option> 
+                <option value="1">Signos cardinales presentes.</option>
+                <option value="0">Signos cardinales no presentes.</option>
+        </select>
+         <select id="opcion2" class="browser-default" required>
+                <option value="">2</option>
+                <option value="1">Respuesta al tratamiento con L-Dopa.</option>
+                <option value="0">Sin respuesta al tratamiento con L-Dopa.</option>
+        </select>
+        <select id="opcion3" class="browser-default" required>
+                <option value="">3</option>
+                <option value="1">Hiposimía</option>
+                <option value="0">Sin hiposimía.</option>
+        </select>
+        <select id="opcion4" class="browser-default" required>
+                <option value="">4</option>
+                <option value="1">Presencia de síntomas depresivos, anhedonía o fatiga.</option>
+                <option value="0">Sin presencia de síntomas depresivos, anhedonía o fatiga.</option>
+        </select>
+	  </div>
+	</div>
+       <button onclick="main()">                                                                      
+                Iniciar
+       </button>
+		</div>
+       <footer class="footer">Antonio Almeida.</footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
