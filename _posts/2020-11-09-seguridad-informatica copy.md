@@ -12,3 +12,14 @@ author: aalmeidar
 ---
 
 # Objetivo
+En este trabajo, teniamos que elaborar una [presentación]() que contuviese los términos como Big Data, Hackers, Crackers, Firewalls, Blockchain, Malware, Phishing, etc. Seguidamente, la expondriamos en clase a nuestros compañeros. Esta exposición no fue grupal como la anterior.
+
+# Trabajo
+En este proyecto, para demostrar como era un phisihing elaboré una página falsa que se hiciese pasar la web de [Rayuela](https://rayuela.educarex.es), esto ayudaría a apreciar esta estafa que está tan vigente en la actualidad. Sólo viendo como esta actúa se puede evitar.
+
+Considero que este tarea me ayudó a afianzar conceptos como blockchain (me ayudó a entender como trabajan las transacciones de bitcoin), además, me hizo desmitificar la red oscura. La ciberseguridad es un tema primordial en la era de la información que no podemos dejar de lado.
+
+# Enlaces de interés
+
+- [Presentaciones](https://fernandosax.wordpress.com/2020/11/09/2o-dd-seguridad-en-la-red/)
+-  
