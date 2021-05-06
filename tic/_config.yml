@@ -6,11 +6,11 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /tic/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Antonio Almeida
+description: Resumen TIC
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -67,13 +67,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: aalmeidar
+repo: aalmeidar.github.io
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+relative_source: ../tic/
+destination: ../tic/
+production_url:  https://aalmeidar.github.io/tic/
+source_url:  https://github.com/aalmeidar.github.io/tic/
 
 exclude:
   - assets/css
