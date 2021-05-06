@@ -11,16 +11,29 @@ subclass: 'post'
 author: aalmeidar
 ---
 
-As I engage in the so-called "bull sessions" around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the "brethren" think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.
+# Objetivo
+Tenía que elaborar un programa empleando uno de los lenguajes vistos en clase y no coincidente con el explicado por mi grupo. Una vez realizado, había que una evidencia de su funcionamiento creando un video del mismo. ste trabajo fue de manera individual.
 
-It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.
+# Trabajo
 
-Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.
+Mi objetivo con este proyecto fue orientado hacia la inteligencia artificial. Opté por el lenguaje de programación JavaScript con la librería Brain JS. El proyecto trata de predecir la enfermedad del parkinson con cuatro criterios introducidos. 
 
-The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.
+Esta idea se me presentó a causa de que mi hermana esta realizando su trabajo de fin de grado sobre la Inteligencia Artificial aplicada a la Neurología. Además, para verificar si mis resultados eran correctos me apoye en su trabajo.
 
-The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?
+Se me presentaron algunas adversidades. Por un parte, no podía acceder a ninguna base de datos médica para poder observar que síntomas eran mas predecibles. Además, era mi primer contacto con la rama de la inteligencia artificial. 
 
-We must remember that intelligence is not enough. Intelligence plus character--that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.
+Para poder estudiar que síntomas eran los más frecuentes acudí a algunos libros de Neurología. Una vez en ellos, hice una lista e identifique los más predecibles a través de el número de paciente que lo padecia y lo tardío que era en aparecer. Los criterios que elegí son: Síntomas cardinales, Tratamiento con L-Dopa, Hiposímia y Depresión. Para más detalle accede a la [documentación del proyecto](https://aalmeidar.github.io/parkinJSon/doc.html).
 
-If we are not careful, our colleges will produce a group of close-minded, unscientific, illogical propagandists, consumed with immoral acts. Be careful, "brethren!" Be careful, teachers!
+En cuanto a la programación, no resultó ser tan complejo como pensaba, pero si se refiere a teoría es de lo más complicado, debido a que, la inteligencia artificial es un campo en pleno auge y relativamente nuevo.
+
+Este último trabajo, con diferencia, ha sido el que mas tiempo me ha llevado conseguir los recurso para poder elaborar el programa. Los proyectos que hemos hechos relacionados con el mundo de la programación han resultado ser los favoritos para mí por la plena libertad a la hora de trabajar.
+
+
+# Enlace de interés 
+
+- [Web](https://aalmeidar.github.io/parkinJSon/)
+- [Video](https://drive.google.com/file/d/1VR93HKjs7uTgzsNcrPgEE6H1FHAQL2ju/view)
+- [Trabajo de compañeros](https://fernandosax.wordpress.com/2021/04/23/programacion-ii-2o-bach-tic/)
+- [Github](https://github.com/aalmeidar/aalmeidar.github.io/tree/main/parkinJSon)
+- [Guia de Redes Neuronales](https://www.upgrad.com/blog/neural-network-tutorial-step-by-step-guide-for-beginners/)
+

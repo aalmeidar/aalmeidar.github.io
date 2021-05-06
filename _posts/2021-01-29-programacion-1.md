@@ -39,3 +39,5 @@ $ python3 main.py
 - [Space Invaders](https://github.com/Tic-Zurbaran/EjemploPresentacion)
 - [Web sobre python y pygame](tic-zurbaran.github.io)
 - [Presentaciones](https://fernandosax.wordpress.com/2021/02/17/programacion-diferentes-lenguajes-2o-bach-tic/)
+- [Video 1](https://drive.google.com/file/d/1sKKDtWiGlmy9Dp__L1QRXv5LHojC8nnL/view)
+- [Video 2](https://drive.google.com/file/d/1STcBnxzUqor9E4d6T2Udjt2AlD4HvRqI/view)
