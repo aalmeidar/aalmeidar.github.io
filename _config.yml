@@ -10,9 +10,9 @@ baseurl: /
 
 # Website info
 title: TIC
-description: Resumen TIC
+description: Resumen
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+logo: 
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
