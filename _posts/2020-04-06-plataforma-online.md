@@ -11,15 +11,17 @@ subclass: 'post'
 author: aalmeidar
 ---
 # Objetivo
-El objetivo de esta tarea era crear una presentación, a tráves de la cual, mostramos a nuestros alumnos como proceder en caso de situación de confinamiento.
+El objetivo de esta tarea era crear una [presentación](https://docs.google.com/presentation/d/1v7hsYPunWb1t4YzMx1KyDZVvCrEYhKNUDfs4ckhcieA/edit?usp=sharing), a tráves de la cual, mostramos a nuestros alumnos como proceder en caso de situación de confinamiento.
 
 Para ello, teniamos que tener en cuenta el nivel de los alumnos a los que nos dirigiamos, además de revisar todas las hipotéticas situaciones que se presenten.
 
 # Trabajo 
 
-Mi grupo, después de plantearn y probar varias alternativas, decidió optar por la plataforma web educativa [Classroom](https://classroom.google.com/). Para comunicarnos con los alumnos usamos la aplicación [Discord](https://discord.com/) que nos permite llamadas, mensajería, etc. Por último, para ofrecer alguna práctica a los alumnos recurrimos al recurso de [Kahoot](https://kahoot.com/). En estos tres pilares se fundamentó nuestra metodología que usariamos con nuestros alumnos en situación de confinamiento. 
+Mi grupo, después de plantear y probar varias alternativas, decidió optar por la plataforma web educativa [Classroom](https://classroom.google.com/). Para comunicarnos con los alumnos usamos la aplicación [Discord](https://discord.com/) que nos permite llamadas, mensajería, etc. Por último, para ofrecer alguna práctica a los alumnos recurrimos al recurso de [Kahoot](https://kahoot.com/). En estos tres pilares se fundamentó nuestra metodología que usariamos con nuestros alumnos en situación de confinamiento. 
 
 Añadimos algunos extras para facilitar el trabajo a los alumnos, por ejemplo, elaboramos un bot en el servidor de Discord programado en Python que comunicaba notas y realizaba algunas labores del profesorado. 
+
+Este trabajo nos puso en la piel de los docentes durante el confinamiento, fue un proyecto sin mucha dificultad pero proponia la reflexión sobre que metódo usar para contactar con el alumnado.
 
 ## Bot
 
@@ -139,6 +141,8 @@ print('My bot is ready')
 bot.run('')
 
 ```
+
+
 
 ## Enlaces de interés
 
