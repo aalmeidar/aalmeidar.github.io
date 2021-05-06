@@ -22,5 +22,9 @@ Mi grupo, después de plantearn y probar varias alternativas, decidió optar por
 
 Añadimos algunos extras para facilitar el trabajo a los alumnos, por ejemplo, elaboramos un bot en el servidor de Discord programado en Python que comunicaba notas y realizaba algunas labores del profesorado. 
 
+## Enlaces de interés
+
+- [Presentaciones](https://fernandosax.wordpress.com/2020/09/16/2o-bach-tic-plataforma-online/)
+
 
 
