@@ -11,7 +11,6 @@ subclass: 'post'
 author: aalmeidar
 ---
 # Objetivo
-
 Este proyecto trató de la elaboración de un programa con un lenguaje de programación que nosotros deseasemos. Mi grupo eligió Python para elaborar dos juegos: uno mas sencillo que se trataba de una recreación de space invaders, y uno mas complejo que es un remake de snake. 
 
 # Trabajo 
@@ -26,13 +25,13 @@ Los otros grupos de clase también realizaron proyectos interesantes con C++, Ja
 
 Para poder probar estos proyectos de una manera rápida puedes optar por descargartelos y ejecutarlo con un IDE de python o puedes a través de un emulador de terminal Linux hacer lo siguiente:
 
-´´´bash
+```bash
 $ pip install pygame
 $ git clone https://github.com/Tic-Zurbaran/Snake-Game
 $ cd Snake-Game-master
 $ python3 main.py
 
-´´´
+```
 
 # Enlaces de interés
 
