@@ -147,6 +147,6 @@ bot.run('')
 ## Enlaces de interés
 
 - [Presentaciones](https://fernandosax.wordpress.com/2020/09/16/2o-bach-tic-plataforma-online/)
-
+- [Noticia: ¿Cómo afectó el Confinamiento a estudiantes y profesores?](https://mextudia.com/como-afecto-el-confinamiento-a-estudiantes-y-profesores/)
 
 
