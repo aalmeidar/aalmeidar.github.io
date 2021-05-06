@@ -4,7 +4,7 @@ current: post
 cover: assets/images/1.jpg
 navigation: True
 title: Plataforma Online
-date: 2021-04-06 10:18:00
+date: 2020-10-05 10:18:00
 tags: 1º evaluación
 class: post-template
 subclass: 'post'
