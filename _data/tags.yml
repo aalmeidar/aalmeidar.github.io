@@ -1,16 +1,12 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
-  cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
+1º Evaluación:
+  name: 1º Evaluación
+  description: 1º Evaluación
+  cover: 
+2º Evaluación:
+  name: 2º Evaluación
+  description: 2º Evaluación
+  cover: 
+3º Evaluación:
+  name: 3º Evaluación
+  description: 3º Evaluación
+  cover: 
