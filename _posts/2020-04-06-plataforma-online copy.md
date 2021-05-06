@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/1.jpg
+cover: assets/images/1.png
 navigation: True
 title: Plataforma Online
 date: 2020-10-05 10:18:00
