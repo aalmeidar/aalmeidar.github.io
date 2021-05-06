@@ -38,3 +38,4 @@ $ python3 main.py
 - [Snake Game](https://github.com/Tic-Zurbaran/Snake-Game)
 - [Space Invaders](https://github.com/Tic-Zurbaran/EjemploPresentacion)
 - [Web sobre python y pygame](tic-zurbaran.github.io)
+- [Presentaciones](https://fernandosax.wordpress.com/2021/02/17/programacion-diferentes-lenguajes-2o-bach-tic/)
