@@ -1,4 +1,3 @@
-
 ---
 layout: post
 current: post
@@ -28,7 +27,6 @@ Para ello, usaremos las tecnologías frecuentes en el desarrollo web (HTML, CSS,
 ## Estudio de la web
 Lo primero que debemos hacer es acceder a la web y tener un pequeño mapa mental de la estructura externa. Ademas, podemos ir echando un vistazo a las tecnologías usadas y como han sido desarrolladas (si el css esta junto a html o en una hoja de estilo, etc).
 
-![login_rayuela](/assets/img/sample/rayuela.png)
 
 ## HTML
 Para comenzar, copiaremos el html de la web objetivo. HTML es un lenguaje de marcado que se utiliza para el desarrollo de páginas de Internet. Se trata de la sigla que corresponde a HyperText Markup Language, es decir, Lenguaje de Marcas de Hipertexto, que podría ser traducido como Lenguaje de Formato de Documentos para Hipertexto.
@@ -38,7 +36,6 @@ Podemos hacer esto de varias formas:
     
 Si vamos viendo nuestro progreso veremos la pagina que aun no se parece mucho a nuestro objetivo, la estética la conseguiremos con css.
 
-![Vista_html](/assets/img/sample/rayuela_html.png)
 
 ## CSS
 La sigla CSS corresponde a la expresión inglesa Cascading StyleSheets, que puede traducirse como “Hojas de estilo en cascada”. El concepto se utiliza en el ámbito de la informática para referirse a un lenguaje empleado en el diseño gráfico.
@@ -50,7 +47,6 @@ Ya se observa una mejora de nuestra web pero aun nos falta algo, las imágenes.
 
 
 
-![Vista_css](/assets/img/sample/rayuela_css.png)
 ## Imágenes
 Para obtener las imágenes, podemos usar [herramientas online](https://imagecyborg.com/) aunque en nuestro caso no obtendremos todas, puesto que, también hay imágenes en el css.
 Por orta parte, se puede hacer manualmente, si observamos el html veremos las rutas de las imágenes al igual que en el css.
@@ -90,7 +86,7 @@ Además, debemos cambiar la redirección del action de form  a login.php:
 
 Después de tener todo el login perfecto para el phishing toca subirlo a la red para poder enviarlo. En este caso usaremos un [hosting gratuito](https://000webhost.com).
 
-![login_000webhost](/assets/img/sample/000webhostapp.png)
+
 
 ## Práctica
 
