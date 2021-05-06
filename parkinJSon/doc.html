@@ -1,0 +1,192 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Documentación</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style_doc.css">
+    <link rel="author" href="humans.txt">
+  </head>
+  <body>
+    <div class="doc__bg"></div>
+    <nav class="header">
+      <h1 class="logo">ParkinJSon <span class="logo__thin"></span></h1>
+      <ul class="menu">
+        <div class="menu__item toggle"><span></span></div>
+        <li class="menu__item"><a href="" class="link link--dark"><i class="fa fa-github"></i> Github</a></li>
+        <li class="menu__item"><a href="index.html" class="link link--dark"><i class="fa fa-home"></i> Home</a></li>
+      </ul>
+    </nav>
+    <div class="wrapper">
+      <aside class="doc__nav">
+        <ul>
+          <li class="js-btn"> <a href="#general">General</a></li>
+          <li class="js-btn"> <a href="#enfermedad">Enfermedad</a></li>
+          <li class="js-btn"> <a href="#ia">Inteligencia artificial</a></li>
+        </ul>
+      </aside>
+      <article class="doc__content">
+        <section class="js-section">
+          <h2 class="section__title" id="general">General</h2>
+          <p><b>ParkinJSon</b> se define como un proyecto que trata de predecir el diagnóstico de la enfermedad de Parkinson a partir de 4 datos clínicos.
+             Para ello, se utiliza el lenguaje de programación JavaScript junto a la librería de inteligencia artificial <b>Brain JS</b>.   </p>
+          
+        <section class="js-section">
+          <h2 class="section__title" id="enfermedad">Enfermedad</h2>
+          <p>La enfermedad de Parkinson es el síndrome parkinsoniano más común. Su etiopatogenia es desconocida, no obstante, probablemente sea multifactorial: 
+            factores genéticos (incidencia familiar del 1-2%), ambientales (MPTP, menor en fumadores), traumatismos, etc. </p>
+          <h3 class="section__title">Neuroanatomía</h3>
+          <ul>
+            <li>Pérdida de neuronas en la sustancia negra(porción compacta) y también locus coeruleus, globo pálido y putamen (provocan una pérdida de dopamina en el estriado). 
+              Los síntomas no aparecen hasta que se pierden el 80% de las neuronas nigroestriadas. </li>
+            <li>El marcador histológico más característico (no patignomónico) son los cuerpos de Lewy (gránulos de inclusión intracitoplásmicos de las neuronas de los ganglios basales).</li>
+            </ul>
+            <h3 class="section-title">Síntomas Motores</h3>
+          <table id="customers">
+            <tr>
+              <th>Síntoma</th>
+              <th>Detalles</th>
+              
+            </tr>
+            <tr>
+              <td>Temblor</td>
+              <td><ul>
+                <li>El temblor es una oscilacion involuntaria a 4-6Hz rítmica, sobre un eje teórico.</li>
+               <li>El 30% de los pacientes con EP no tiene temblor.</li>
+               <li>El comienzo es unilateral, comienza en una mano, pasa a la pierna del mismo lado y luego a la otra mano. El lado del inicio de los sintomas será el más afecto.</li>
+               <li>Es de reposo, predomina en los dedos y se acentúa al caminar, con el éstres, la concentración o al sentirse observado. Desaparece con el sueño.</li>
+               <li>Más llamativo en manos, menos en piernas.</li>
+               <li>El temblor en la EP puede afectar a la mandíbula, lengua o cabeza, pero estos segmentos se afean más en temblores esenciales.</li>
+               <li>Un 10% asocia al temblor de reposo un temblor postural o de acción.</li>
+
+              </ul></td>
+
+            </tr>
+            <tr>
+              <td>Rigidez</td>
+              <td><ul>
+                <li> Resistencia la movilización pasiva. Rigidez en "rueda dentada". Se acentúa con el movimiento voluntario de la mano contralateral. No disminuye con el sueño o las emociones.</li> 
+	            	<li>Ocasiona la típica postura de flexión del cuelo, codos y rodillas.</li>
+	            	<li>Se detecta en: Carpo, codo, cuello.</li>
+	              <li>Aparece precozmente en músculos axiales del tronco y el cuello.</li>
+		            <li>Dificultad aun más el movimiento y produce dolor.</li>
+              </ul></td>
+
+            </tr>
+            <tr>
+              <td>Acinesia/Bradicinesia</td>
+              <td><ul>
+              <li>Es casi constante, consiste en la lentitud de los movimientos.</li>
+		          <li>Dificultad para movimientos finos como abrocharse los zapatos.</li>
+		          <li>Pérdida de moviminetos asociados.</li>
+	            <li>Fatigabilidad de los movimientos repetidos.</li>
+	            <li>Amimía.</li>
+	            <li>Voz: Monótona, hipotonía, falta de entonación.</li>
+	            <li>Escritura: Pequeña e irregular.</li>
+	            <li>Movimientos: Lentos e incompletos.</li>
+	            <li>Es el sintoma mas incapacitante.</li>
+              </ul></td>
+
+            </tr>
+            <tr>
+              <td>Pérdida de reflejos posturales</td>
+              <td><ul>
+                <li>Alteración en la postura.</li>       
+                <li>Alteraciones en la marcha: Marcha lenta, a pequeño paso, arrastrnado los pies como persiguiendo su centro de gravedad. </li>             
+                <li>La marcha puede estar alterada, puediéndose producir bloqueos bruscos durante la misma o dificultad para iniciarla o frenarse. (efectos noradrenérgicos)</li>
+                <li>Falta de braceo al caminar, inicialmente en el lado por el que se inician los síntomas.</li>       
+                <li>Inestabilidad para la marcha y dificultad para mantener el equilibriofrenet a pequeños obstáculos. Dificultad para los giros. Caídas frecuentes. </li> 
+                <li>No mantiene la postura si se le empuja (retopulsión), no puede caminar hacia atrás.</li>           
+
+              </ul></td>
+
+            </tr>
+          </table>
+
+          <h3 class="section-title">Síntomas No Motores</h3>
+          <table id="customers">
+            <tr>
+              <th>Síntoma</th>
+              <th>Detalles</th>
+              
+            </tr>
+            <tr>
+              <td>Sensitivos</td>
+              <td><ul>
+                <li>Dolores osteomusculares inespecificos: Tirantez, calambres, entumecimiento, disestesias, quemazón.</li>
+               <li>Hiposimía hasta en el 90% (signo precoz)</li>
+              </ul></td>
+
+            </tr>
+            <tr>
+              <td>Disautonómicos</td>
+              <td><ul>
+                <li>Hipotensión ortostática</li> 
+	            	<li>Estreñimineto (signo precoz)</li>
+	            	<li>Disfunción sexual y síntomas urinarios.</li>
+              </ul></td>
+
+            </tr>
+            <tr>
+              <td>Depresión</td>
+              <td><ul>
+              <li>Síntomas depresivos, anhedonía, fatiga aparecen hasta en el 40% de pacientes</li>
+		          <li>Estos signos preceden al diagnóstico hasta en un 30% de los casos</li>
+              </ul></td>
+
+            </tr>
+            <tr>
+              <td>Sueño</td>
+              <td><ul>
+                <li>Mayor incidencia de los trastornos de sueño de la fase REM</li>       
+                <li>Mayor incidencia del síndrome de piernas inquientas durante el sueño</li>             
+                <li>Dificultad de conciliación del sueño por molestias propias de la enfermedad.</li>
+              </ul></td>
+
+            </tr>
+            <tr>
+              <td>Psicosis</td>
+              <td><ul>
+                <li>Alucionaciones visuales o deirios. Se asocian al tiempo de evolución y al tratamiento dopaminérgico</li>       
+                <li>La aparición de alucinaciones aumenta el riesgo de demencia</li>             
+              </ul></td>
+
+            </tr>
+            <tr>
+              <td>Demencia</td>
+              <td><ul>
+                <li>Síntomas neuropsicológicos, que consisten en trastornos de tipo frontal. Lentificación de los procesos mentales y de la toma de decisiones, perseveración, disminución de la fluencia verbal, alteraciones de las tareas visuoespaciales</li>       
+                <li>Aparece deterioro cognitivo en el 70% de los mayores de 80 años. La ausencia de temblor y el predominio de síntomas motores no dopaminérgicos (alteración de deglucion o habla) favorecen la demencia</li>             
+              </ul></td>
+
+            </tr>
+          </table>
+          <hr />
+        </section>
+        <section class="js-section">
+          <h3 class="section__title" id="ia">Inteligencia Artificial</h3>
+          <p> Para poder hacer un estudio con precisión y de una manera eficaz he optado por crear una Red Neuronal para que a través de Machine Learning evalúe los casos clínicos introducidos.
+             <br><br>La tecnología usada es Brain JS. Esta librería hace que JavaScript aprenda los patrones y la relación entre los inputs y outputs para elaborar una predicción, para ello, se sirve de Redes Neuronales. 
+             Las Redes Neuronales Artificiales son una réplica del mecanismo de trabajo de las redes neuronales biológicas que estan dotadas la capacidad de aprender.
+              Dichos sistemas “aprenden” a realizar tareas considerando ejemplos, generalmente sin estar programados con reglas específicas de la tarea. <br><br>
+            
+              Las neuronas de la primera capa reciben como entrada los datos reales que alimentan a la red neuronal.
+                Es por eso por lo que la primera capa se conoce como capa de entrada. La salida de la última capa es el resultado visible de la red,
+                 por lo que la última capa se conoce como la capa de salida. Las capas que se sitúan entre la capa de entrada y la capa de salida se conocen como capas ocultas ya que
+                  desconocemos tanto los valores de entrada como los de salida. <br><br>
+              Una red neuronal, por lo tanto, siempre está compuesta por una capa de entrada, una capa de salida (si solo hay una capa en la red neuronal, la capa de entrada coincide con la capa de salida) y puede contener 0 o más capas ocultas.</p>
+              <img src="nn.png" width="100%" height=auto>
+            </section>
+        
+      </article>
+    </div>
+
+    <footer class="footer">Antonio Almeida</footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
