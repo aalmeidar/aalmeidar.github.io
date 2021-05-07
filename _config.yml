@@ -15,7 +15,7 @@ cover: assets/images/gif-sea-black.gif
 logo: 
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-CNAME: #add cname for website to be created
+CNAME: aalmeidar.tk
 
 # Social info
 navigation: True # show the navbar links
