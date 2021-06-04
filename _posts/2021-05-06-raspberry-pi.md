@@ -3,7 +3,7 @@ current: post
 cover: assets/images/raspberry.jpg
 navigation: True
 title: Raspberry Pi (Lite + Xfce)
-date: 2021-01-29 10:18:00
+date: 2021-06-05 10:18:00
 tags: Tutorial
 class: post-template
 subclass: 'post'
