@@ -66,6 +66,7 @@ Y para la gpu:
 $ vcgencmd measure_temp 
 ```
 Pero este proceso se puede amenizar con el siguiente script en bash:
+
 ```bash
 cpu=$(</sys/class/thermal/thermal_zone0/temp)
 let cpu=$((cpu/1000))  
