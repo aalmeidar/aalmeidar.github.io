@@ -30,7 +30,7 @@ Para comenzar, se debe instalar el sistema operativo en una micro sd. Para ello,
 
 Una vez hecho esto ya estará listo el sistema para usarlo. Atención, el usuario y la contraseña son por defecto pi:raspberry.
 
-[![Raspberry_software](/assets/images/raspberry_software.jpg)]
+[![Raspberry_software](/assets/images/raspsd.jpg)](https://www.raspberrypi.org/software/)
 
 # Software
 
