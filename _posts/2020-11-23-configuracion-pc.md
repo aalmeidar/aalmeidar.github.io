@@ -5,7 +5,7 @@ cover: assets/images/6.jpg
 navigation: True
 title: Configuración PC
 date: 2020-11-23 10:18:00
-tags: 1º-Evaluación
+tags: 2-Bachillerato
 class: post-template
 subclass: 'post'
 author: aalmeidar
