@@ -5,7 +5,7 @@ cover: assets/images/8.jpg
 navigation: True
 title: Programación II
 date: 2021-01-29 10:18:00
-tags: 3º-Evaluación
+tags: 2-Bachillerato
 class: post-template
 subclass: 'post'
 author: aalmeidar
