@@ -30,6 +30,8 @@ Para comenzar, se debe instalar el sistema operativo en una micro sd. Para ello,
 
 Una vez hecho esto ya estará listo el sistema para usarlo. Atención, el usuario y la contraseña son por defecto pi:raspberry.
 
+[![Raspberry_software](/assets/images/raspberry_software.jpg)]
+
 # Software
 
 Antes que nada, debe hacerse una actualización al sistema. Al estar en Rasperry Pi OS Lite, se puede usar el gestor de paquetes apt.
